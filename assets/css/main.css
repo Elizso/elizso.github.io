@@ -747,12 +747,12 @@
 /* Basic */
 
 	body {
-		background-image: url("images/overlay.png"), url("images/bg.jpg");
+		background-image: url("pic/blue.jpeg"),url("blues.jpeg"), url("images/bg.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, 100% 100%;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 300;
-		color: #777777;
+		color: #123456;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
